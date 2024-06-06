@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
-| April 2024 | Cantina | [OLAS Lockbox Solana](https://cantina.xyz/u/meltedblocks)| 3 | 1M, 3L | 
+| April 2024 | Cantina | [OLAS Lockbox Solana](https://x.com/cantinaxyz/status/1769846698514231628)| 3 | 1M, 3L | 
 
 
 ## Security Assessments
