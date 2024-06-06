@@ -5,8 +5,8 @@
 I am the CEO and founder of [Torii Security](https://torii.team). I specialize in on-chain security assessments across various blockchain platforms, including Solana, EVM, Near, and Substrate/ink!. With years of experience in web2 security and development, I bring a wealth of knowledge and expertise to the forefront of blockchain security, ensuring robust protection and integrity for decentralized applications and systems.
 
 For private audits or security consulting, please reach out to me on:
-- Twitter - [*@meltedblocks*](https://twitter.com/meltedblocks) 
-- Telegram - **@meltedblocks**
+- Twitter - [**@meltedblocks**](https://twitter.com/meltedblocks) 
+- Telegram - [**@meltedblocks**](https://t.me/meltedblocks)
 
 ## Web3 Contests
 
