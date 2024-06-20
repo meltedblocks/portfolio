@@ -20,7 +20,8 @@ For private audits or security consulting, please reach out to me on:
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Unloc](https://www.unloc.xyz) - NFT Borrowing and Lending  | Solana | Private |
-| Follows Protocol - Tokenized Social Network  | Solana| [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii_follows_report_final.pdf) |
+| [Follows Protocol](https://follows.app/) - Tokenized Social Network  | Solana| [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii_follows_report_final.pdf) |
+| [Magic Beans](https://magicbeans.fun/) - Over-The-Counter (OTC) trading (cooperation with Monethic) | Solana | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
 
 ## Development
 
