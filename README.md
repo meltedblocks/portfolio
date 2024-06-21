@@ -31,6 +31,12 @@ For private audits or security consulting, please reach out to me on:
 | **SolanaSense** | Submission Solana Renaissance Hackathon. Tool designed to monitor entire Solana protocol stack. | [link](https://github.com/Torii-Security/solanasense) |
 | **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
 
+## Publications
+
+| Name | Description | Link |
+| - | - | :-: |
+| **Solana Wrapped SOL (WSOL)** | The most common mistakes and misconceptions when dealing with Wrapped Sol | [link](https://toriisecurity.substack.com/p/solana-wrapped-sol-wsol-all-you-need)|
+
 ## Certificates
 
 - Offensive Security Certified Expert (OSCE)
