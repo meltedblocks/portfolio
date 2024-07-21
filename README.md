@@ -12,7 +12,8 @@ For private audits or security consulting, please reach out to me on:
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
-| April 2024 | Cantina | [OLAS Lockbox Solana](https://x.com/cantinaxyz/status/1769846698514231628)| 3 | 1M, 3L | 
+| April 2024 | Cantina | [OLAS Lockbox Solana](https://x.com/cantinaxyz/status/1769846698514231628)| 3 | 1M, 3L |
+| July 2024 | Bug Bounty | [Solana Foundation](https://solana.com)| - | 1M | 
 
 
 ## Security Assessments
@@ -36,6 +37,7 @@ For private audits or security consulting, please reach out to me on:
 | Name | Description | Link |
 | - | - | :-: |
 | **Solana Wrapped SOL (WSOL)** | The most common mistakes and misconceptions when dealing with Wrapped Sol | [link](https://toriisecurity.substack.com/p/solana-wrapped-sol-wsol-all-you-need)|
+| **Testing Solana Programs: Essential Tools and Tips** | A Comprehensive Guide to Unit and Integration Testing for Solana Development | [link](https://toriisecurity.substack.com/p/testing-solana-programs-essential)|
 
 ## Certificates
 
