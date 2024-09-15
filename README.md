@@ -8,7 +8,7 @@ For private audits or security consulting, please reach out to me on:
 - Twitter - [**@meltedblocks**](https://twitter.com/meltedblocks) 
 - Telegram - [**@meltedblocks**](https://t.me/meltedblocks)
 
-## Web3 Contests
+## Blockchain Security Contests
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
