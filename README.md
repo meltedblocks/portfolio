@@ -39,6 +39,7 @@ For private audits or security consulting, please reach out to me on:
 | - | - | :-: |
 | **Solana Wrapped SOL (WSOL)** | The most common mistakes and misconceptions when dealing with Wrapped Sol | [link](https://toriisecurity.substack.com/p/solana-wrapped-sol-wsol-all-you-need)|
 | **Testing Solana Programs: Essential Tools and Tips** | A Comprehensive Guide to Unit and Integration Testing for Solana Development | [link](https://toriisecurity.substack.com/p/testing-solana-programs-essential)|
+| **Adventure into Solana Security** | Presentation given on Warsaw Solana House - September - 2024 | [link](https://github.com/meltedblocks/portfolio/blob/main/presentations/adventure-into-solana-security.pdf)|
 
 ## Certificates
 
