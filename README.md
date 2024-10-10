@@ -15,6 +15,7 @@ For private audits or security consulting, please reach out to me on:
 | April 2024 | Cantina | [OLAS Lockbox Solana](https://x.com/cantinaxyz/status/1769846698514231628)| 3 | 1M, 3L |
 | July 2024 | Bug Bounty | [Solana Foundation](https://solana.com)| - | 1M |
 | August 2024 | Hats Finance | [dappslap](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)| 1 | 1M, 3L | 
+| October 2024 | Cantina | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)| - | 3H, 1M | 
 
 
 ## Security Assessments
