@@ -34,6 +34,8 @@ For private audits or security consulting, please reach out to me on:
 | **SolKeeper** | Winner of Solana Hyperdrive Hackathon. Solana audits documented on-chain in verifiable form. | [link](https://github.com/Torii-Security/solkeeper)|
 | **SolanaSense** | Submission Solana Renaissance Hackathon. Tool designed to monitor entire Solana protocol stack. | [link](https://github.com/Torii-Security/solanasense) |
 | **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
+| **Tabby Bot** | Bot that integrates Solana with Telegram | [link](https://docs.tabby.bot)
+| **RTR** | Staking and Lottery for RTR coin. | [link](https://x.com/toriisecurity/status/1838666520701854070)
 
 ## Publications
 
