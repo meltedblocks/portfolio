@@ -26,6 +26,7 @@ For private audits or security consulting, please reach out to me on:
 | [Follows Protocol](https://follows.app/) - Tokenized Social Network  | Solana| [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii_follows_report_final.pdf) |
 | [Magic Beans](https://magicbeans.fun/) - Over-The-Counter (OTC) trading (cooperation with Monethic) | Solana | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
 | [Reflect Delta Neutral](https://reflect.cx) - fully on-chain decentralized tokenized hedging via delta-neutral currencies | Solana | Private |
+| [DefiTuna](https://defituna.com/) - A comprehensive toolkit for Liquidity Providers | Solana | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf) |
 
 ## Development
 
