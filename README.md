@@ -2,7 +2,7 @@
 
 ## About me
 
-I am the CEO and co-founder of [Torii Security](https://torii.team). I specialize in on-chain security assessments across various blockchain platforms, including Solana, EVM, Near, and Substrate/ink!. With years of experience in web2 security and development, I bring a wealth of knowledge and expertise to the forefront of blockchain security, ensuring robust protection and integrity for decentralized applications and systems.
+I specialize in on-chain development and security assessments across various blockchain platforms, including Solana, EVM, Near, and Substrate/ink!. With years of experience in web2 security and development, I bring a wealth of knowledge and expertise to the forefront of blockchain security, ensuring robust protection and integrity for decentralized applications and systems.
 
 For private audits or security consulting, please reach out to me on:
 - Twitter - [**@meltedblocks**](https://twitter.com/meltedblocks) 
@@ -44,6 +44,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Name | Description | Link |
 | - | - | :-: |
+| **Nyro** | Solana trading terminal - instant trades and realtime data analysis. | [link](https://app.nyro.trade)|
 | **SolKeeper** | Winner of Solana Hyperdrive Hackathon. Solana audits documented on-chain in verifiable form. | [link](https://github.com/Torii-Security/solkeeper)|
 | **SolanaSense** | Submission Solana Renaissance Hackathon. Tool designed to monitor entire Solana protocol stack. | [link](https://github.com/Torii-Security/solanasense) |
 | **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
