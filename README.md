@@ -24,6 +24,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Name | Description | Company | Chain | Report |
 | - | - | - | - | :-: |
+| [MetaMask Card Baanx](https://github.com/Baanx-Group/anchor-withdraw) | Fund management system on Solana | Oak Security | Solana | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf) |
 | [Pump.science](https://pump.science/) | Bonding curve for scientific discoveries | Torii Security | Solana | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii-pumpscience-diff-report.pdf) |
 | [Tellor](https://tellor.io/) | Oracle layer for secure, censorship-resistant data creation and distribution | Torii Security | Cosmos SDK | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/cosmos/torii-tellor-report-02-2025.pdf) |
 | [DefiTuna](https://defituna.com/) | A comprehensive toolkit for Liquidity Providers | Torii Security | Solana | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf) |
@@ -50,6 +51,7 @@ For private audits or security consulting, please reach out to me on:
 | **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
 | **Tabby Bot** | Bot that integrates Solana with Telegram | [link](https://docs.tabby.bot)
 | **RTR** | Staking and Lottery for RTR coin. | [link](https://x.com/toriisecurity/status/1838666520701854070)
+| **Unloc** | NFT borrow and lending platform on Solana. | [link](https://www.unloc.xyz)
 
 ## Publications
 
