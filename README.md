@@ -8,6 +8,21 @@ For private audits or security consulting, please reach out to me on:
 - Twitter - [**@meltedblocks**](https://twitter.com/meltedblocks) 
 - Telegram - [**@meltedblocks**](https://t.me/meltedblocks)
 
+
+## Development
+
+| Name | Description | Link |
+| - | - | :-: |
+| **Nyro** | Solana trading terminal - instant trades and realtime data analysis. | [link](https://app.nyro.trade)|
+| **FlashOptions** | Fully permissionless and decenralized binary options on Solana | [link](https://flash-binary-ui.pages.dev)|
+| **Diambra AIvsAI** | Solana protocol to bet on AI vs AI matches in the Street Fighter game fights | [link](https://app.diambra.ai)|
+| **SolKeeper** | Winner of Solana Hyperdrive Hackathon. Solana audits documented on-chain in verifiable form. | [link](https://github.com/Torii-Security/solkeeper)|
+| **SolanaSense** | Submission Solana Renaissance Hackathon. Tool designed to monitor entire Solana protocol stack. | [link](https://github.com/Torii-Security/solanasense) |
+| **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
+| **Tabby Bot** | Bot that integrates Solana with Telegram | [link](https://docs.tabby.bot)
+| **RTR** | Staking and Lottery for RTR coin. | [link](https://x.com/toriisecurity/status/1838666520701854070)
+| **Unloc** | NFT borrow and lending platform on Solana. | [link](https://www.unloc.xyz)
+
 ## Blockchain Security Contests
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
@@ -40,18 +55,6 @@ For private audits or security consulting, please reach out to me on:
 | [Shuttle Labs](https://shuttlelabs.io/) | The Universal EVM <--> Solana bridge, every token, best rates, at lightning speeds | Hacken | Solana | [📄 Report.pdf](https://hacken.io/audits/shuttle-labs/) |
 | [375ai](https://375.ai/) | DePIN built on Solana that leverages AI | Hacken | Solana | [📄 Report.pdf](https://hacken.io/audits/375ai/) |
 | [Linear](https://linear.finance/) | Liquid Staking Protocol | Hacken | Near | [📄 Report.pdf](https://hacken.io/audits/linear/) |
-
-## Development
-
-| Name | Description | Link |
-| - | - | :-: |
-| **Nyro** | Solana trading terminal - instant trades and realtime data analysis. | [link](https://app.nyro.trade)|
-| **SolKeeper** | Winner of Solana Hyperdrive Hackathon. Solana audits documented on-chain in verifiable form. | [link](https://github.com/Torii-Security/solkeeper)|
-| **SolanaSense** | Submission Solana Renaissance Hackathon. Tool designed to monitor entire Solana protocol stack. | [link](https://github.com/Torii-Security/solanasense) |
-| **Blaster Cash** | No-code payments using Solana Pay stack. | [link](https://github.com/meltedblocks/blaster-cash-public)
-| **Tabby Bot** | Bot that integrates Solana with Telegram | [link](https://docs.tabby.bot)
-| **RTR** | Staking and Lottery for RTR coin. | [link](https://x.com/toriisecurity/status/1838666520701854070)
-| **Unloc** | NFT borrow and lending platform on Solana. | [link](https://www.unloc.xyz)
 
 ## Publications
 
