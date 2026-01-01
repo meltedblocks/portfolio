@@ -27,6 +27,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
+| December 2025 | Capture the Flag | Solana Breakpoint 2025 CTF | 1 | - |
 | April 2024 | Cantina | [OLAS Lockbox Solana](https://x.com/cantinaxyz/status/1769846698514231628)| 3 | 1M, 3L |
 | July 2024 | Bug Bounty | [Solana Foundation](https://solana.com)| - | 1M |
 | August 2024 | Hats Finance | [dappslap](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)| 1 | 1M, 3L | 
@@ -39,6 +40,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Name | Description | Company | Chain | Report |
 | - | - | - | - | :-: |
+| [Snowbridge Fiat Shamir Beefy](https://github.com/Baanx-Group/anchor-withdraw) | Fiat Shamir integration in the Snowbridge consensus | Oak Security | EVM / ZK | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-12-29%20Audit%20Report%20-%20Snowbridge%20Fiat%20Shamir%20Beefy%20Changes%20v1.0.pdf) |
 | [MetaMask Card Baanx](https://github.com/Baanx-Group/anchor-withdraw) | Fund management system on Solana | Oak Security | Solana | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf) |
 | [Pump.science](https://pump.science/) | Bonding curve for scientific discoveries | Torii Security | Solana | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/solana/torii-pumpscience-diff-report.pdf) |
 | [Tellor](https://tellor.io/) | Oracle layer for secure, censorship-resistant data creation and distribution | Torii Security | Cosmos SDK | [📄 Report.pdf](https://github.com/Torii-Security/audits/blob/main/cosmos/torii-tellor-report-02-2025.pdf) |
